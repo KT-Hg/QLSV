@@ -1,0 +1,21 @@
+E:\Hoc\BMCSDL\Lab4\2\QLSV\bin\Debug\QLSV.exe.config
+E:\Hoc\BMCSDL\Lab4\2\QLSV\bin\Debug\QLSV.exe
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.fLogin.resources
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.fManager.resources
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.exe
+E:\Hoc\BMCSDL\Lab4\2\QLSV\obj\Debug\QLSV.pdb
+E:\Hoc\BMCSDL\Lab4\2\New folder\bin\Debug\QLSV.exe.config
+E:\Hoc\BMCSDL\Lab4\2\New folder\bin\Debug\QLSV.exe
+E:\Hoc\BMCSDL\Lab4\2\New folder\bin\Debug\QLSV.pdb
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.fLogin.resources
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.fManager.resources
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.Properties.Resources.resources
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.exe
+E:\Hoc\BMCSDL\Lab4\2\New folder\obj\Debug\QLSV.pdb
